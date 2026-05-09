@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ADVANCED CONCEPT OF REACT.JS**
 
-- 🤝 I’m looking for help with **RORIRI 50/50**
+- 🤝 I’m helped with the React project called **RORIRI 50/50**
 
 - 💬 Ask me about **REACT**
 
